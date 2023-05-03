@@ -1,0 +1,25 @@
+.container {
+    width: 100%;
+    font-size: 5em;
+    margin: 1em;
+    padding-bottom: .3rem;
+    min-width: 100%;
+}
+
+.flexbox {
+    position: absolute;
+    top: 2.2em;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    display: flex;
+    justify-content: space-evenly;
+    gap: .25em;
+}
+
+.svg {
+fill: rgba(8,35,51,.25); 
+}
+
+.active {
+    fill: #082333;
+  }

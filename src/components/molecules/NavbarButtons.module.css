@@ -1,0 +1,19 @@
+.cart {
+    margin-left: 32px;
+    margin-right: 32px;
+}
+
+.button {
+    border: solid 0px transparent !important;
+    background: transparent !important;
+}
+
+.button:focus {
+    border: solid 0px red !important;
+    background: transparent !important;
+}
+
+.button:focus-visible {
+    border: solid 0px transparent !important;
+    background: transparent !important;
+}

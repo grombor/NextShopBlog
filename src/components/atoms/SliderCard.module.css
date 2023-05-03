@@ -1,0 +1,23 @@
+.button {
+    margin-left: -7px;
+    width: 100% !important;
+    position: absolute;
+    bottom: 2px;
+}
+
+.cart {
+margin-bottom: -10px !important;
+}
+
+.content {
+    display: block;
+    font-size: 16px;
+    line-height: 16px !important; 
+    text-transform: uppercase;
+}
+
+.category_button {
+    margin-left: -7px;
+    margin-top: 12px;
+    width: 105% !important;
+}

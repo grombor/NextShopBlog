@@ -1,0 +1,17 @@
+.hidden {
+    display: none;
+    position: absolute;
+    top: 500px;
+    left: 0;
+    width: 100%;
+    z-index: 2;
+}
+
+.show {
+    display: block;
+    position: absolute;
+    top: 118px;
+    left: 0;
+    width: 100%;
+    z-index: 2;
+}

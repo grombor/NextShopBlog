@@ -1,0 +1,10 @@
+    .button {
+        margin-top: auto;
+        margin-bottom: auto;
+    }
+    
+    @media only screen and (max-width: 400px) {
+        .button {
+            margin: 2em auto 4em auto;
+        }
+    }

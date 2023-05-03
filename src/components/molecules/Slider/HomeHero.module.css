@@ -1,0 +1,16 @@
+.hero {
+    height: 75vh;
+    margin-top: -50px;
+    background-size: cover;
+    background-position: left top;
+    position: relative;
+    display: block;
+}
+
+.header {
+    position: absolute;
+    bottom: 1.8em;
+    background: rgba(255, 255, 255, 0.7);
+    min-width: 100%;
+    padding: .75em 1.5em;
+}

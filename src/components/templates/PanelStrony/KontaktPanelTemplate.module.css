@@ -1,0 +1,11 @@
+.first_cell_content {
+    text-transform: uppercase;
+    padding-left: 1rem;
+}
+
+.last_cell {
+    width: 43px;
+    cursor: pointer;
+    margin: auto;
+    text-align: center;
+}

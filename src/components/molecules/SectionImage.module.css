@@ -1,0 +1,8 @@
+.section {
+    height: 336px;
+    width: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left top;
+    position: relative;
+}

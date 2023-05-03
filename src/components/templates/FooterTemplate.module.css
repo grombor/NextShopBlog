@@ -1,0 +1,24 @@
+.dark {
+    background-color: #082333;
+    color: white;
+}
+
+.link {
+    color: inherit;
+    font-weight: lighter;
+    line-height: 1.8em;
+}
+
+.link:hover {
+    color: inherit;
+}
+
+.malow_logo {
+    margin: auto;
+}
+
+.abes_logo {
+    display: relative;
+    margin: auto;
+    max-width: 365px;
+}

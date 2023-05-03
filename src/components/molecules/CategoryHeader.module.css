@@ -1,0 +1,25 @@
+.container {
+    position: relative;
+    width: 100vw;
+    height: 440px;
+    padding: 0;
+    margin-top: 10vh;
+}
+
+.header {
+    position: absolute;
+    bottom: 3em;
+    background: rgba(255, 255, 255, 0.7);
+    min-width: 100%;
+}
+
+.button {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+@media only screen and (max-width: 400px) {
+    .button {
+        margin: 2em auto 4em auto;
+    }
+}

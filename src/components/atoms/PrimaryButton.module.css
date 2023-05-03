@@ -1,0 +1,24 @@
+.button {
+  color: white;
+  text-transform: uppercase;
+  background: rgba(8, 35, 51, 0.9);
+  border: 1px solid #000000;
+  border-radius: 4px;
+}
+
+.button:hover {
+  color: white;
+  background-color: #bc1725;
+}
+
+.button:active {
+  color: white;
+}
+
+.button:visited {
+  color: white;
+}
+
+.button:focus {
+  color: white;
+}

@@ -1,0 +1,23 @@
+.infobox {
+    background-color: #082333;
+    opacity: 0.85;
+    color: white;
+  }
+  
+  .hr {
+    width: 90%;
+    margin: 1em auto;
+    height: 1px;
+  }
+  
+  .summary_table {
+    color: white;
+  }
+  
+  .td {
+    width: 70%;
+  }
+  
+  .summary_button {
+    width: 100%;
+  }

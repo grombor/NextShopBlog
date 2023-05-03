@@ -1,0 +1,9 @@
+.last_column {
+    max-width: 150px;
+    text-transform: uppercase;
+}
+
+.column {
+    min-width: 350px;
+    text-transform: uppercase;
+}
